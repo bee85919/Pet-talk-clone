@@ -1,3 +1,3 @@
-# pet-talk-clone
+# Pet-Talk 2020 Update
 
-Talk with your pets!
+HTML & CSS are so much fun!
