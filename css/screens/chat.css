@@ -7,7 +7,7 @@
 #chat-screen .status-bar {
   top: 0;
   position: fixed;
-  width: 100%;
+  width: 99%;
   background-color: var(--apricot);
   box-sizing: border-box;
 }
@@ -50,7 +50,7 @@
 }
 
 .message-row {
-  width: 100%;
+  width: 95%;
   display: flex;
   margin-bottom: 25px;
 }
