@@ -1,3 +1,3 @@
-# Pet-talk-clone
+# pet-talk-clone
 
 Talk with your pets!
