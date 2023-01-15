@@ -5,7 +5,7 @@
 
 #chat-screen .alt-header,
 #chat-screen .status-bar {
-  top: 0;
+  top: 10px;
   position: fixed;
   width: 100%;
   background-color: var(--apricot);
